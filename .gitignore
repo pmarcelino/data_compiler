@@ -12,5 +12,7 @@ build/
 
 # Miscellaneous
 .DS_Store
-.reference/
-.submissoes/*
+reference/
+submissoes/
+log_file.csv
+paper_prepare.csv
