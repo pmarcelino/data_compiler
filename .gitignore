@@ -1,0 +1,16 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# Miscellaneous
+.DS_Store
+.reference/
+.submissoes/*
